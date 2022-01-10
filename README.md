@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3> Well hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+My name is Richard Grecki Jr<br>
+I am a Full-stack developer looking to create and innovate with those around me!<br>
+🤖 Want to collaborate? Feel free to reach out!</h3>
+ 
+[👨‍💻 LinkedIn](https://www.linkedin.com/in/richard-grecki-jr/) &nbsp; [📧 Email ](richardgreckijr@gmail.com)<br>
+
+![](https://img.shields.io/badge/test-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=016064)
 
 <!--
 **richardgreckijr/richardgreckijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
