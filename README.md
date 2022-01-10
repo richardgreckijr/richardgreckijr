@@ -3,6 +3,7 @@ My name is Richard Grecki Jr<br>
 I am a Full-stack developer looking to create and innovate with those around me!<br>
 🤖 Want to collaborate? Feel free to reach out!</h3>
  
+
 [👨‍💻 LinkedIn](https://www.linkedin.com/in/richard-grecki-jr/) &nbsp; [📧 Email ](richardgreckijr@gmail.com)<br>
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=5c5c5c&color=016064&logoColor=E34F26&label=%20)
