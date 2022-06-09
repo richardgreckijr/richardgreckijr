@@ -1,4 +1,4 @@
-<h3> Well hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
+<h3> Well hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <br>
 My name is Richard Grecki Jr<br>
 I am a Full-stack developer looking to create and innovate with those around me!<br>
 🤖 Want to collaborate? Feel free to reach out!</h3>
